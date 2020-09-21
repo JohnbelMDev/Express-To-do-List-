@@ -26,6 +26,6 @@
    <h3>Usage</h3>
          <ol>
            <li> run node server</li> 
-           <li> Navigate to localhost:3000 </li>
+           <li> Navigate to localhost:5020 </li>
           </ol>
         
