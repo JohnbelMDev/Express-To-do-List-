@@ -1,5 +1,5 @@
 var thumbUp = document.getElementsByClassName("fa-thumbs-up");
-var trash = document.getElementsByClassName("fa-trash");
+var trash = document.getElementsByClassName("fa-hourglass-half");
 var thumbDown  = document.getElementsByClassName("fa-thumbs-down")
 
 // from() method that creates a new array from an array-like or iterable object.

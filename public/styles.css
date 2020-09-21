@@ -12,6 +12,10 @@ h1{
 }
 h2{
   text-align: center;
+  color: white;
+}
+span{
+  color: white;
 }
 .message{
   text-align: center;
@@ -20,4 +24,13 @@ h2{
 }
 form{
   text-align:center;
+}
+.todolist{
+  margin-left: 30%;
+  margin-top: 10%;
+  height: 22rem;
+
+  background-color: white;
+  background-image: url('https://vignette.wikia.nocookie.net/legendsofthemultiuniverse/images/7/7b/3r0849.jpg/revision/latest/scale-to-width-down/340?cb=20180405020318');
+  width: 50%;
 }
